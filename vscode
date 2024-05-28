@@ -1,0 +1,4 @@
+1) Убрать желтые рамки 
+    ctr+shift+p - ищем UI параметры пользовательского интерфейса
+        далее ищем Опцию editor.unicodeHighlight.nonBasicASCII поставить false
+2) Перенос строки ctr+Z
